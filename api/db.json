@@ -1,0 +1,45 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "123345",
+      "id": 3
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here are some streams",
+      "id": 4
+    },
+    {
+      "title": "asdf",
+      "description": "asdfasdfdasf",
+      "id": 5
+    },
+    {
+      "title": "asdf",
+      "description": "asdfasdf",
+      "id": 6
+    },
+    {
+      "title": "Henry",
+      "description": "this is my stream",
+      "id": 7
+    },
+    {
+      "title": "Henry",
+      "description": "this is my stream",
+      "id": 8
+    },
+    {
+      "title": "Hello there",
+      "description": "LOLOLOLOLOLOL",
+      "id": 11
+    },
+    {
+      "title": "llllll",
+      "description": "asdfasdfasdfasdfsa",
+      "userId": "105915977514622149839",
+      "id": 12
+    }
+  ]
+}
